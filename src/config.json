@@ -1,0 +1,10 @@
+{
+	"port"			: 9000,
+	"bodyLimit"		: "100kb",
+	"corsHeaders"	: ["Link"],
+	"user"			: "budi",
+	"password"		: "budi1234",
+	"database" 		: "ekop-emikro",
+	"host"			: "103.81.246.55",
+	"screat"		: "adskjaskdnsakd"
+}
